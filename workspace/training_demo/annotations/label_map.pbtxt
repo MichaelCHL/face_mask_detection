@@ -5,10 +5,10 @@ item {
 
 item {
     id: 2
-    name: 'No Mask'
+    name: 'NoMask'
 }
 
 item {
     id: 3
-    name: 'Not Wear Properly'
+    name: 'NotWearProperly'
 }
